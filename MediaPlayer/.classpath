@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jars/servlet jsp lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet jsp lib/standard.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet jsp lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet jsp lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/apache-maven-3.0.5/repository/mysql/mysql-connector-java/5.1.10/mysql-connector-java-5.1.10.jar"/>
+	<classpathentry kind="lib" path="D:/jars/Apache common lib/commons-dbutils-1.5/commons-dbutils-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/jars/Apache common lib/commons-dbcp-1.4/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/jars/Apache common lib/commons-lang3-3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
